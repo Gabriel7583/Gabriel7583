@@ -3,7 +3,7 @@
 - meu nome é Gabriel gustavo
 
 - Estou estudando no [alura](https://www.alura.com.br)
-- Estou me desnvolvendo na linguagem javaScript
+- Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
 ### você entrar em contato comigo 📫
